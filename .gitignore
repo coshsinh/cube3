@@ -1,0 +1,18 @@
+# editor config
+.idea/
+.vscode/
+
+# junk
+.Spotlight-V100
+.DS_Store
+.Trashes
+._*
+Desktop.ini
+Thumbs.db
+
+# cmake
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+cmake-build-debug/
+build/
